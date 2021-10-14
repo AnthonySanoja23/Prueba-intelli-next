@@ -1,5 +1,5 @@
 # Prueba_intelli-next
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMiUf7quKvHvIhbkDPNW8qxa3A6x2S_A9NhiSCC3BGNkYOgF82gA9GRBrMbkv4ky_Ktw0&usqp=CAU)
+![image](https://media-exp1.licdn.com/dms/image/C4D0BAQEFtR38h0TQzg/company-logo_200_200/0/1622865178708?e=2159024400&v=beta&t=-8Z-m1jMup-4xxOk4ZyQbj-Yn4GY3j-bJRWzHm9u1UQ)
 
 
 ## Starting 🚀
