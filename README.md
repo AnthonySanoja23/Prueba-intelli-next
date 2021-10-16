@@ -3,7 +3,7 @@
 
 ## .env
 ```
-user_name ----> User db 
+user_name ----> User db recommended (root)
 MYSQL_ROOT_PASSWORD --> Name password
 MYSQL_DATABASE --->Name Db
 secret ----> Password in Binary
